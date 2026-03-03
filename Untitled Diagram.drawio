@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="Page-1" id="f45gFLM2CLftB-tGGofA">
+    <mxGraphModel dx="834" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-3" edge="1" parent="1" source="8WEaIDcZ2-uVd1AafZBE-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8WEaIDcZ2-uVd1AafZBE-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="start&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-5" edge="1" parent="1" source="8WEaIDcZ2-uVd1AafZBE-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8WEaIDcZ2-uVd1AafZBE-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="check the schedule&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="going out" vertex="1">
+          <mxGeometry height="110" width="100" x="50" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-12" edge="1" parent="1" source="8WEaIDcZ2-uVd1AafZBE-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8WEaIDcZ2-uVd1AafZBE-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="start" vertex="1">
+          <mxGeometry height="80" width="120" x="520" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-14" edge="1" parent="1" source="8WEaIDcZ2-uVd1AafZBE-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-11" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="diffrintiate between socks based on their type&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-17" edge="1" parent="1" source="8WEaIDcZ2-uVd1AafZBE-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="8WEaIDcZ2-uVd1AafZBE-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-15" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="check the colour, size and the type of the socks" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="8WEaIDcZ2-uVd1AafZBE-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="if&amp;nbsp; the&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="540" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
