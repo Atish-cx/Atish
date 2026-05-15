@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="-ZnCMxcqUQ439hOJe_7_">
+    <mxGraphModel dx="1258" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-20" edge="1" parent="1" source="rNttjaNb6wiYcT9REtDQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rNttjaNb6wiYcT9REtDQ-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="start&amp;nbsp; script" vertex="1">
+          <mxGeometry height="80" width="120" x="230" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-14" edge="1" parent="1" source="rNttjaNb6wiYcT9REtDQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rNttjaNb6wiYcT9REtDQ-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="take conversion type from the user&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-7" edge="1" parent="1" source="rNttjaNb6wiYcT9REtDQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="take value from the user" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-12" edge="1" parent="1" source="rNttjaNb6wiYcT9REtDQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rNttjaNb6wiYcT9REtDQ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="if the value is anony" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-16" edge="1" parent="1" source="rNttjaNb6wiYcT9REtDQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rNttjaNb6wiYcT9REtDQ-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-18" edge="1" parent="1" source="rNttjaNb6wiYcT9REtDQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rNttjaNb6wiYcT9REtDQ-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="is the value withing menu" vertex="1">
+          <mxGeometry height="80" width="80" x="220" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-15" parent="1" style="whiteSpace=wrap;html=1;" value="if no show error messgae and ask for change of option" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-26" edge="1" parent="1" source="rNttjaNb6wiYcT9REtDQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rNttjaNb6wiYcT9REtDQ-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-17" parent="1" style="whiteSpace=wrap;html=1;" value="if yes calculate the result with uni" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-21" edge="1" parent="1" source="rNttjaNb6wiYcT9REtDQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rNttjaNb6wiYcT9REtDQ-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="display instructions and menu to the user" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="end" vertex="1">
+          <mxGeometry height="80" width="120" x="190" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="start the function&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="770" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-27" edge="1" parent="1" source="rNttjaNb6wiYcT9REtDQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rNttjaNb6wiYcT9REtDQ-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNttjaNb6wiYcT9REtDQ-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="display&amp;nbsp; clear converted value output" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="730" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
